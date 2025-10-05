@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "김도환입니다"
   location         : "Northern Pontar, Novigrad"
-  email            : "nawwhod@gmail.com"
+  email            : # "nawwhod@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
